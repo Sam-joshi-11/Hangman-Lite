@@ -15,15 +15,6 @@ A simple Python-based version of the classic Hangman game where you guess one le
 
 ---
 
-## 🧠 What You'll Practice
-
-- Loops (`for`, `while`)
-- Lists and sets
-- `if` conditions
-- Live string updates with `_ _ _` placeholders
-- Input handling and win/lose logic
-
----
 
 ## 🎮 Sample Gameplay
 
